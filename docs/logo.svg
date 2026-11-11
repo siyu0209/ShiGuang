@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" width="112" height="112" role="img" aria-label="ShiGuang logo">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#23232A"/>
+      <stop offset="100%" stop-color="#121216"/>
+    </linearGradient>
+  </defs>
+  <rect width="108" height="108" rx="24" fill="url(#bg)"/>
+  <path d="M31,33 L58,54 L31,75 Z" fill="#FFC24B"/>
+  <path d="M61,53 L72,66 L83,53" fill="none" stroke="#FFFFFF" stroke-width="6"
+        stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M72,38 L72,62" fill="none" stroke="#FFFFFF" stroke-width="6"
+        stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M74,66 L83,53 L86.5,55.5 L76,70 Z" fill="#FFC24B"/>
+</svg>
